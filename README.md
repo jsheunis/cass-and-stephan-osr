@@ -24,9 +24,9 @@ The open science room (OSR) has always been highlight of our OHMB conference exp
 
 ## Welcoming!
 
-<!-- <img align="right" src="docs/OSR_fig_open.png" alt="open" width="200"> -->
+<img align="right" src="docs/OSR_fig_open.png" alt="open" width="50%">
 
-<img class="two" align="right" src="docs/OSR_fig_open.png" width="300" height="300">
+<!-- <img class="two" align="right" src="docs/OSR_fig_open.png" width="300" height="300"> -->
 
 All society members should feel invited, welcomed, and included in the OSR. To promote an inclusive space, we would create a welcoming entry point that attracts the eye of passers-by. This welcoming space will:
   * Give a visual introduction to what open science can bring to your research
