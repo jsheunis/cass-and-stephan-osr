@@ -18,7 +18,7 @@ img.two {
 }
 </style> -->
 
-<img align="center" src="docs/OSR_fig_caption.png" alt="open" width="100%">
+<img align="center" src="docs/OSR_fig_caption_2.png" alt="open" width="100%">
 
 The open science room (OSR) has always been highlight of our OHMB conference experience. Next year we'd like to give something back to the community, and offer you a well structured OSR which works hard to support every stage of your open science journey.
 
