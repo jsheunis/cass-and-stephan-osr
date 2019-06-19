@@ -1,64 +1,82 @@
 # Cass Gould van Praag and Stephan Heunis for OHBM 2020 Open Science Room Chairs
 
-![hdr](docs/img1.png)
+<!-- ![hdr](docs/OSR_fig_caption.png) -->
+<img style="display:block; margin-left: auto; margin-right: auto;" src="docs/OSR_fig_caption.png" alt="hdr" width="1500">
 
-## Pictures are nice, but we want to see action!
-
-We’ve thought long and hard about what we’d like to bring to you in the open science room (OSR) for 2020. These ideas build on the excitement we’ve felt at OHBM in years passed, but go one stage further in delivering a well communicated structure which works for all of us.
+The open science room (OSR) has always been highlight of our OHMB conference experience. Next year we'd like to give something back to the community, and offer you a well structured OSR which works hard to support every stage of an individuals open science journey
 
 ## Welcoming!
 
-All society members should feel invited, welcomed, and included in the OSR, not just the "open science crowd". To promote an inclusive space, we would create a welcoming entry point into the open science area. A visible point that attracts the eye of passers-by. A space that:
-  * Gives an accessible low-down of what the OSR is all about;
-  * Tells you what to expect;
-  * Offers you a piece of fruit;
+<img style="float: right;" src="docs/OSR_fig_open.png" alt="open" width="200">
+
+All society members should feel invited, welcomed, and included in the OSR. To promote an inclusive space, we would create a welcoming entry point that attracts the eye of passers-by. This welcoming space will:
+  * Give a visual introduction to what open science can bring to your research
+  * Demonstrate how the OSR fits into the conference and OHBM community
+  * Give an easy overview of the OSR schedule
+  * Offer you a piece of fruit?!
+
 
 ## Educational!
 
-Open science is hard sometimes. So many tools to learn, so many practices to be aware of, so little time. Providing a space and framework for this learning is core to the OSR. We want to make open science accessible to all, from newbies to experts. Let's learn together! Educational sessions could take the form of:
+<img style="float: right;" src="docs/OSR_fig_edu.png" alt="edu" width="200">
+
+Open science can be hard. So many tools to learn, so many practices to be aware of! We want to support a growth mindset in the OSR, where we all understand that effort and failure can make us stronger together, whatever our starting point. Educational sessions held in and around the OSR could take the form of:
 
   * Talks
   * Software demos
   * Round-table discussions
   * Workshops
   * Hands-on tutorials
-  * Drop-ins
-  * Hackathon “Traintrack”
+  * Drop-ins or "Office Hours"
+  * Spontaneous [teach-ins](https://en.wikipedia.org/wiki/Teach-in)!
 
-Importantly, we want to facilitate a continuous learning experience between the OHBM hackathon, the OHBM educational day, the OHBM oral sessions/symposia and the OSR. This will require good coordination, which we're totally down with!
+Importantly, we want to facilitate a continuous learning experience between the OHBM [Hackathon](https://hackathon.guide), the OHBM Educational Day, the OHBM oral sessions/symposia and the OSR. This will require good coordination and close attention to issues and opportunities for learning which arise. We're totally down with that.
 
 ## Collaborative!
+
+<img style="float: right;" src="docs/OSR_fig_collab.png" alt="collab" width="200">
 
 Open science is about working together for the benefit of all. We want to create a space where collaboration can flow when and how you want it to. This includes creating room for:
 
   * Impromptu discussions
   * Breakout sessions for workshopping (with white boards!)
-  * Working on your own, but together (tables and chairs, basically :D)
-
-Critical thinking and open discourse are super important, especially when it comes to controversial topics or some of our core assumptions. Why not create collaborative learning sessions out of this? We're aiming to build further on the successes of #OHBM2019 impromptu discussions. Let's collaborate and educate to drive our field forward!
+  * Posting collaboration opportunities and offers of support
+  * Working on your own, but together (tables, chairs, beanbags, plug sockets)
 
 ## You do you, we’ll sort the rest!
- 
-To support all of the above, we want to put a structure in place that removes barriers so that you can get the most out of your time in the OSR. You shouldn't have to be confused about what to sign up for, where to go, what to take part in. We're thinking:
 
-  * easy access to the daily schedule at a glance, online and in person around the OSR
-  * quick and easy way to self-organise sessions
-  * dedicated areas for impromptu discussions
-  * workshops and brain-storming spaces
-  * a chill-out space
-  * refreshments!
- 
-Of course, "we'll sort the rest" includes getting continuous input and contributions from the whole society. If you feel like sharing ideas and contributing your skills, please do so! It's not just us, it's all of us!
+<img style="float: right;" src="docs/OSR_fig_calComm.png" alt="calComm" width="200">
 
-## Who are we?! 
+To support all of the above, we want to put a structure in place that removes barriers and helps you make the most out of your time in the OSR. You shouldn't have to be confused about what to sign up for, where to go, what to take part in. We're thinking:
 
-![hdr](docs/img2.png)
+  * Easy access to the daily schedule at a glance, online and in person around the OSR
+  * Quick and easy way to self-organise sessions
+  * Dedicated areas for impromptu discussions
+  * Workshops and brain-storming spaces
+  * A chill-out space
+  * Refreshments!
+
+We'll take continuous input and contributions from the whole society, to keep the OSR fluid and reactive to the larger conference. If you feel like sharing ideas and contributing your skills, we'd love you to do so! We'll have clear communication channels and always have someone on hand to answer questions or make introductions.
+
+## Who are we?!
+
+<!-- ![hdr](docs/OSR_fig_cgvp-sh_2.png) -->
+
+<img style="display:block; margin-left: auto; margin-right: auto;" src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500">
 
 
 ### Cass
 
-...
+Cass is a postdoctoral researcher at the University of Oxford Department of Psychiatry. She provides support for (f)MRI experimental design and analysis in the investigation of treatments for mood disorders. In this role she has to stay up to speed with the leading edge of analytic tools, and is constantly on the look out for tips, tricks and techniques to make this research quicker, slicker, and more effective. This goes hand-in-hand with making the research more transparent and reproducible, and freely sharing the outputs of our labour. She is a passionate believer in the equitable dissemination of knowledge, and spends a lot of time showing people that programming isn't scary.
+
+Alongside Cass' academic work she has professional experience in facilitation, team management, and project management. She is fiercely brave, most of the time, and great at organising a party.
+
+twitter: [@cassgvp](https://twitter.com/cassgvp) | github: [@cassgvp](https://github.com/cassgvp) | gitlab: [@cassag](https://git.fmrib.ox.ac.uk/cassag) | [OSF](https://osf.io/7s93g/) | [University page](https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag) | [Research gate](https://www.researchgate.net/profile/Cassandra_Gould_Van_Praag) | [What Cass' parties look like](https://www.mariannechua.com/cass-and-chris-ultimate-diy-festival-wedding-with-a-woodland-song-tastic-ceremony/)
 
 ### Stephan
 
-...
+Stephan is a researcher and PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the [Open Science Community Eindhoven](https://osceindhoven.github.io/), which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of [OpenMR Benelux](https://openmrbenelux.github.io/), a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.
+
+Stephan is ridiculously talented, competent and experienced at this sort of thing, but he needs Cass to help bring his ideas to a larger community.
+
+twitter: [@fmrwhy](https://twitter.com/fmrwhy) | github: [@jsheunis](https://github.com/jsheunis) | [Website and blog](https://www.fmrwhy.com/) | [University page](https://research.tue.nl/en/persons/js-stephan-heunis) | [Research Gate](https://www.researchgate.net/profile/Stephan_Heunis2)
