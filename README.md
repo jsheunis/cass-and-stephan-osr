@@ -1,13 +1,32 @@
 # Cass Gould van Praag and Stephan Heunis for OHBM 2020 Open Science Room Chairs
 
 <!-- ![hdr](docs/OSR_fig_caption.png) -->
+
+<style>
+html, body {
+  height: 100%;
+}
+
+img.one {
+  height: auto;
+  width: auto;
+}
+
+img.two {
+  height: 50%;
+  width: 50%;
+}
+</style>
+
 <img style="display:block; margin-left: auto; margin-right: auto;" src="docs/OSR_fig_caption.png" alt="hdr" width="1500">
 
 The open science room (OSR) has always been highlight of our OHMB conference experience. Next year we'd like to give something back to the community, and offer you a well structured OSR which works hard to support every stage of your open science journey.
 
 ## Welcoming!
 
-<img align="right" src="docs/OSR_fig_open.png" alt="open" width="200">
+<!-- <img align="right" src="docs/OSR_fig_open.png" alt="open" width="200"> -->
+
+<img class="two" align="right" src="docs/OSR_fig_open.png" width="300" height="300">
 
 All society members should feel invited, welcomed, and included in the OSR. To promote an inclusive space, we would create a welcoming entry point that attracts the eye of passers-by. This welcoming space will:
   * Give a visual introduction to what open science can bring to your research
