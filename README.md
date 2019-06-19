@@ -18,7 +18,7 @@ img.two {
 }
 </style> -->
 
-<img align="right" src="docs/OSR_fig_caption.png" alt="open" width="150%">
+<img align="center" src="docs/OSR_fig_caption.png" alt="open" width="100%">
 
 The open science room (OSR) has always been highlight of our OHMB conference experience. Next year we'd like to give something back to the community, and offer you a well structured OSR which works hard to support every stage of your open science journey.
 
@@ -82,7 +82,7 @@ We'll take continuous input and contributions from the whole society, to keep th
 <!-- ![hdr](docs/OSR_fig_cgvp-sh_2.png) -->
 
 <p align="center">
-<img src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500">
+<img src="docs/OSR_fig_cgvp-sh_4.png" alt="hdr" width="500">
 </p>
 
 <!-- <img style="display:block; margin-left: auto; margin-right: auto;" src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500"> -->
