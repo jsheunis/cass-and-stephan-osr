@@ -7,7 +7,6 @@ The open science room (OSR) has always been highlight of our OHMB conference exp
 
 ## Welcoming!
 
-<!-- <div style="float: right;"><img src="docs/OSR_fig_open.png" alt="open" width="200"/></div> -->
 <img align="right" src="docs/OSR_fig_open.png" alt="open" width="200">
 
 All society members should feel invited, welcomed, and included in the OSR. To promote an inclusive space, we would create a welcoming entry point that attracts the eye of passers-by. This welcoming space will:
@@ -19,7 +18,7 @@ All society members should feel invited, welcomed, and included in the OSR. To p
 
 ## Educational!
 
-<img style="float: right;" src="docs/OSR_fig_edu.png" alt="edu" width="200">
+<img align="right" src="docs/OSR_fig_edu.png" alt="edu" width="200">
 
 Open science can be hard. So many tools to learn, so many practices to be aware of! We want to support a growth mindset in the OSR, where we all understand that effort and failure can make us stronger together, whatever our starting point. Educational sessions held in and around the OSR could take the form of:
 
@@ -35,7 +34,7 @@ Importantly, we want to facilitate a continuous learning experience between the 
 
 ## Collaborative!
 
-<img style="float: right;" src="docs/OSR_fig_collab.png" alt="collab" width="200">
+<img align="right" src="docs/OSR_fig_collab.png" alt="collab" width="200">
 
 Open science is about working together for the benefit of all. We want to create a space where collaboration can flow when and how you want it to. This includes creating room for:
 
@@ -46,7 +45,7 @@ Open science is about working together for the benefit of all. We want to create
 
 ## You do you, we’ll sort the rest!
 
-<img style="float: right;" src="docs/OSR_fig_calComm.png" alt="calComm" width="200">
+<img align="right" src="docs/OSR_fig_calComm.png" alt="calComm" width="200">
 
 To support all of the above, we want to put a structure in place that removes barriers and helps you make the most out of your time in the OSR. You shouldn't have to be confused about what to sign up for, where to go, what to take part in. We're thinking:
 
@@ -63,7 +62,9 @@ We'll take continuous input and contributions from the whole society, to keep th
 
 <!-- ![hdr](docs/OSR_fig_cgvp-sh_2.png) -->
 
-<img style="display:block; margin-left: auto; margin-right: auto;" src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500">
+<center><img src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500"></center>
+
+<!-- <img style="display:block; margin-left: auto; margin-right: auto;" src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500"> -->
 
 
 ### Cass
