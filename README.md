@@ -3,11 +3,11 @@
 <!-- ![hdr](docs/OSR_fig_caption.png) -->
 <img style="display:block; margin-left: auto; margin-right: auto;" src="docs/OSR_fig_caption.png" alt="hdr" width="1500">
 
-The open science room (OSR) has always been highlight of our OHMB conference experience. Next year we'd like to give something back to the community, and offer you a well structured OSR which works hard to support every stage of an individuals open science journey
+The open science room (OSR) has always been highlight of our OHMB conference experience. Next year we'd like to give something back to the community, and offer you a well structured OSR which works hard to support every stage of your open science journey.
 
 ## Welcoming!
 
-<img style="float: right;" src="docs/OSR_fig_open.png" alt="open" width="200">
+<div style="float: right;"><img src="docs/OSR_fig_open.png" alt="open" width="200"/></div>
 
 All society members should feel invited, welcomed, and included in the OSR. To promote an inclusive space, we would create a welcoming entry point that attracts the eye of passers-by. This welcoming space will:
   * Give a visual introduction to what open science can bring to your research
@@ -71,7 +71,7 @@ Cass is a postdoctoral researcher at the University of Oxford Department of Psyc
 
 Alongside Cass' academic work she has professional experience in facilitation, team management, and project management. She is fiercely brave, most of the time, and great at organising a party.
 
-twitter: [@cassgvp](https://twitter.com/cassgvp) | github: [@cassgvp](https://github.com/cassgvp) | gitlab: [@cassag](https://git.fmrib.ox.ac.uk/cassag) | [OSF](https://osf.io/7s93g/) | [University page](https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag) | [Research gate](https://www.researchgate.net/profile/Cassandra_Gould_Van_Praag) | [What Cass' parties look like](https://www.mariannechua.com/cass-and-chris-ultimate-diy-festival-wedding-with-a-woodland-song-tastic-ceremony/)
+twitter: [@cassgvp](https://twitter.com/cassgvp) | github: [@cassgvp](https://github.com/cassgvp) | gitlab: [@cassag](https://git.fmrib.ox.ac.uk/cassag) | [OSF](https://osf.io/7s93g/) | [University page](https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag) | [Research gate](https://www.researchgate.net/profile/Cassandra_Gould_Van_Praag) | A [blog post](https://www.ohbmbrainmappingblog.com/blog/open-science-as-social-justice) Cass wrote about open science | What Cass' [parties](https://www.mariannechua.com/cass-and-chris-ultimate-diy-festival-wedding-with-a-woodland-song-tastic-ceremony/) look like
 
 ### Stephan
 
