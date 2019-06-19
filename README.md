@@ -62,8 +62,8 @@ We'll take continuous input and contributions from the whole society, to keep th
 
 <!-- ![hdr](docs/OSR_fig_cgvp-sh_2.png) -->
 
-<p align="centre">
-    <img src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500">
+<p align="center">
+<img src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500">
 </p>
 
 <!-- <img style="display:block; margin-left: auto; margin-right: auto;" src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500"> -->
