@@ -41,8 +41,8 @@ Open science is about working together for the benefit of all. We want to create
 
   * Impromptu discussions
   * Breakout sessions for workshopping (with white boards!)
-  * Posting collaboration opportunities and offers of support
-  * Working on your own, but together (tables, chairs, beanbags, plug sockets)
+  * Advertising collaboration opportunities and offers of support
+  * Working on your own, but together (tables, chairs, beanbags, plug sockets...)
 
 ## You do you, we’ll sort the rest!
 
@@ -72,16 +72,16 @@ We'll take continuous input and contributions from the whole society, to keep th
 
 ### Cassandra "Cass" Gould van Praag
 
-Cass is a postdoctoral researcher at the University of Oxford Department of Psychiatry. She provides support for (f)MRI experimental design and analysis in the investigation of treatments for mood disorders. In this role she has to stay up to speed with the leading edge of analytic tools, and is constantly on the look out for tips, tricks and techniques to make this research quicker, slicker, and more effective. This goes hand-in-hand with making the research more transparent and reproducible, and freely sharing the outputs of our labour. She is a passionate believer in accessibility and the equitable dissemination of knowledge, contributor to [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) and spends a lot of time showing people that programming isn't scary.
+Cass is a postdoctoral researcher at the University of Oxford Department of Psychiatry. She provides support for (f)MRI experimental design and analysis in the investigation of treatments for mood disorders. In this role she has to stay up to speed with the leading edge of analytic tools, and is constantly on the look out for tips, tricks and techniques to make this research quicker, slicker, and more effective. This goes hand-in-hand with making the research more transparent and reproducible, and freely sharing the outputs of our labour. She is a contributor to [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction), a passionate believer in accessibility and the equitable dissemination of knowledge, and spends a lot of time showing people that programming isn't scary.
 
-Alongside Cass' academic work she has professional experience in facilitation, team management, and project management. She is fiercely brave, most of the time, and great at organising a party.
+Cass' has professional experience in coaching, group facilitation, team management, and project management. She is fiercely brave, most of the time, and great at organising a party.
 
-twitter: [@cassgvp](https://twitter.com/cassgvp) | github: [@cassgvp](https://github.com/cassgvp) | gitlab: [@cassag](https://git.fmrib.ox.ac.uk/cassag) | [OSF](https://osf.io/7s93g/) | [University page](https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag) | [Research gate](https://www.researchgate.net/profile/Cassandra_Gould_Van_Praag) | A [blog post](https://www.ohbmbrainmappingblog.com/blog/open-science-as-social-justice) Cass wrote about open science | What Cass' [parties](https://www.mariannechua.com/cass-and-chris-ultimate-diy-festival-wedding-with-a-woodland-song-tastic-ceremony/) look like
+twitter: [@cassgvp](https://twitter.com/cassgvp) | github: [@cassgvp](https://github.com/cassgvp) | [OSF](https://osf.io/7s93g/) | [University page](https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag) | [Research gate](https://www.researchgate.net/profile/Cassandra_Gould_Van_Praag) | A [blog post](https://www.ohbmbrainmappingblog.com/blog/open-science-as-social-justice) Cass wrote about open science | What Cass' [parties](https://www.mariannechua.com/cass-and-chris-ultimate-diy-festival-wedding-with-a-woodland-song-tastic-ceremony/) look like
 
 ### Stephan Heunis
 
 Stephan is a researcher and PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the [Open Science Community Eindhoven](https://osceindhoven.github.io/), which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of [OpenMR Benelux](https://openmrbenelux.github.io/), a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.
 
-Stephan is ridiculously talented, competent and experienced at this sort of thing, but he needs Cass to help bring his ideas to a larger community.
+Stephan is ridiculously talented, competent and experienced at this sort of thing; Cass is an excellent foil to push his boundaries and extend his reach. 
 
 twitter: [@fmrwhy](https://twitter.com/fmrwhy) | github: [@jsheunis](https://github.com/jsheunis) | [Website and blog](https://www.fmrwhy.com/) | [University page](https://research.tue.nl/en/persons/js-stephan-heunis) | [Research Gate](https://www.researchgate.net/profile/Stephan_Heunis2)
