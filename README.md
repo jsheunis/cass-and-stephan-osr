@@ -62,14 +62,16 @@ We'll take continuous input and contributions from the whole society, to keep th
 
 <!-- ![hdr](docs/OSR_fig_cgvp-sh_2.png) -->
 
-<center><img src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500"></center>
+<p align="centre">
+    <img src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500">
+</p>
 
 <!-- <img style="display:block; margin-left: auto; margin-right: auto;" src="docs/OSR_fig_cgvp-sh_3.png" alt="hdr" width="500"> -->
 
 
 ### Cass
 
-Cass is a postdoctoral researcher at the University of Oxford Department of Psychiatry. She provides support for (f)MRI experimental design and analysis in the investigation of treatments for mood disorders. In this role she has to stay up to speed with the leading edge of analytic tools, and is constantly on the look out for tips, tricks and techniques to make this research quicker, slicker, and more effective. This goes hand-in-hand with making the research more transparent and reproducible, and freely sharing the outputs of our labour. She is a passionate believer in the equitable dissemination of knowledge, and spends a lot of time showing people that programming isn't scary.
+Cass is a postdoctoral researcher at the University of Oxford Department of Psychiatry. She provides support for (f)MRI experimental design and analysis in the investigation of treatments for mood disorders. In this role she has to stay up to speed with the leading edge of analytic tools, and is constantly on the look out for tips, tricks and techniques to make this research quicker, slicker, and more effective. This goes hand-in-hand with making the research more transparent and reproducible, and freely sharing the outputs of our labour. She is a passionate believer in accessibility and the equitable dissemination of knowledge, contributor to [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction) and spends a lot of time showing people that programming isn't scary.
 
 Alongside Cass' academic work she has professional experience in facilitation, team management, and project management. She is fiercely brave, most of the time, and great at organising a party.
 
